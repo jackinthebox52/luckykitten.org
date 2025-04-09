@@ -151,7 +151,7 @@ p {
 }
 
 .social-icon {
-    width: 175px;
+    width: 170px;
 }
 
 /* Large phones */
@@ -168,7 +168,7 @@ p {
         height: 25px;
       }
     .social-icon {
-      width: 85px;
+      width: 80px;
     }
   }
   
@@ -180,6 +180,10 @@ p {
     .container {
       width: 90%;
       padding: 1.25rem;
+    }
+
+    .social-icon {
+      width: 60px;
     }
   }
   
@@ -197,6 +201,6 @@ p {
         height: 15px;
       }
     .social-icon {
-      width: 60px;
+      width: 50px;
     }
   }
